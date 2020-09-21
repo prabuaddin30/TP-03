@@ -1,0 +1,11 @@
+
+class soal 1{
+    public static void main(string[] args){
+    int x = 100000;
+	int y = 30;
+	int hasil = x*y;
+	System.out.println (3000000);
+    }
+}
+	
+	
